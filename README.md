@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <h4>Ravi Ranjan</h4>
+- 👋 Hi, I’m <h6>Ravi Ranjan</h6>
 - 👀 I’m an Android Developer 
 - 🌱 I’m currently learning AI, MACHINE LEARNING & DEEP LEARNING
 - 
